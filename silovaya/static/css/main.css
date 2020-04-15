@@ -1,0 +1,82 @@
+body{
+    font-family: 'Comic Neue', cursive;
+}
+ul,li {
+    display:block;
+    padding:0;
+    margin:0;
+}
+
+.menu{
+
+}
+
+.menu__item{
+    font-weight:700;
+    font-size:14px;
+    text-transform: uppercase;
+}
+
+.book{
+    background:#fea100;
+    color: #fff;
+    font-size:14px;
+    border-radius:3px;
+    text-transform: uppercase;
+    padding: 15px 0;
+    display:block;
+    cursor:pointer;
+    width:200px;
+    border:0;
+}
+
+.main-header{
+    padding:24px 0;
+}
+
+.logo{
+    background: url('../img/top1.jpg') 50% 50% no-repeat;
+    background-size: cover;
+    height:1200px;
+}
+
+.title{
+    padding:600px 0;
+}
+
+.title__heading{
+    font-size:80px;
+    font-family:bold;
+}
+
+.program{
+    font-size:28px;
+    text-align:center;
+    padding: 50px 0;
+}
+
+.register__form{
+    height:900px;
+    background:url('../img/top2.jpg') 50% 50% no-repeat;
+    background-size: cover;
+
+}
+.call{
+    padding-bottom:50px;
+}
+
+.form-for-marafon{
+    padding-top:80px;
+}
+.register-text{
+    text-align:center;
+    padding-top:120px;
+}
+
+season-h1{
+    text-align:center;
+}
+
+.review-text{
+    height:200px;
+}
